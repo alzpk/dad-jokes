@@ -10,7 +10,7 @@ class DadJokes
      *
      * @var string
      */
-    private $filePath = './data/jokes.json';
+    private $filePath = __DIR__ . '/data/jokes.json';
     private $jokes = [];
 
     /**
