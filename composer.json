@@ -1,6 +1,6 @@
 {
     "name": "alzpk/dad-jokes",
-    "description": "This library will tell a simple dada joke, when called for.",
+    "description": "This library will tell a simple dad joke, when called for.",
     "type": "library",
     "license": "MIT",
     "authors": [
