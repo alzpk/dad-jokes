@@ -7,7 +7,7 @@ _Example of usage_
 
 require_once "./vendor/autoload.php";
 
-$dadJokes = new \DadJokes\DadJokes();
+$dadJokes = new Alzpk\DadJokes\DadJokes();
 
 echo $dadJokes->tellRandomJoke() . PHP_EOL;
 ```
