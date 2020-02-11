@@ -1,0 +1,18 @@
+{
+    "name": "alzpk/dad-jokes",
+    "description": "This library will tell a simple dada joke, when called for.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alzpk",
+            "email": "mh1986@outlook.dk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DadJokes\\": "src/"
+        }
+    },
+    "require": {}
+}
